@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div>this is my first react tutorial</div>
+    <h1 style={{backgroundColor:"yellow", color:"blue"}}>this is my first react tutorial</h1>
   )
 }
 
